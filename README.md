@@ -1,4 +1,4 @@
-# ml_lstm_stock_price
+# ml-lstm-stock-price
 
 Where to download latest historical data:
     https://www.nasdaq.com/market-activity/quotes/historical
